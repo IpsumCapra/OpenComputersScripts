@@ -1,0 +1,15 @@
+How to install WarpOS
+
+Requirements:
+  - A computer with a keyboard, a lvl2 screen, a warpdrive ship controller, and at least a tier 2 gpu.
+  You'll also need some memory, a hard disk drive, and a Lua Bios EEPROM, regular stuff to keep a PC running.
+  - A computer running OpenOS with a free slot for the HDD you intend to use.
+  
+
+Installing:
+  - Put the HDD you intend to use into the computer already running OpenOS.
+  - Navigate to the mount point of this HDD.
+  - Create the lib directory here.
+  - Create all files in their respective directories, and paste the code that can be found in this repository in them. (copy the text, and then press insert in the OpenOS text editor.)
+  - Remove the HDD and put it into the ship computer.
+  Now when you turn on the computer it should start running WarpOS. Have fun!
